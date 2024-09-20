@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "food-yt",
+			"path": "../.."
+		},
+		{
+			"name": "redux",
+			"path": "../../../../food-deliveryApp-main/food-deliveryApp-main/redux"
+		}
+	],
+	"settings": {}
+}
